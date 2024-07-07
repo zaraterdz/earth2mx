@@ -31,7 +31,7 @@
       >
       <a
         target="_blank"
-        href="https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com"
+        href="https://mail.google.com/mail/?view=cm&fs=1&to=leozaraterdz@gmail.com&su=Comprar EARTH2.MX&body=Hola, he visto que vendes earth2.mx, quisiera hacerte una oferta!"
         class="btn btn-primary"
         style="background:#E34133; border:#E34133;"
         ><svg
